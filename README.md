@@ -1,3 +1,3 @@
 ## Resume
 
-https://kkasbarian.github.io/resume/
+http://www.kkasbarian.com/resume/
