@@ -106,9 +106,9 @@ a:hover {
 }
 
 #resume #info p.upwork {
-    font-size: 23px;
+    font-size: 23px !important;
     font-family: 'Roboto', arial, sans-serif;
-    font-weight: 700;
+    font-weight: 700 !important;
     color: #fff;
 }
 
