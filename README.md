@@ -1,3 +1,3 @@
 ## Resume
 
-http://www.kkasbarian.com/resume/
+https://www.kkasbarian.com/resume/
